@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @Yshdhiman
+### Hi, I’m @Yshdhiman 👋
+
+Welcome to my GitHub profile! I'm a web developer with a passion for turning ideas into reality. 
+I'm currently working with Ciirs, where we convert ideas into reality. 
+
+#### About Me:
+
 - 👀 I’m interested in making money 🤑
-- 🌱 I’m currently working with company Ciirs (convert idea's into reality)
-- 💞️ I’m looking to collaborate on youtube not a programming channel but edits/status
+- 🌱 Learning is fun, isn't...?
+- 💞️ I’m looking to collaborate on YouTube
 
 <!---
 Yshdhiman/Yshdhiman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
