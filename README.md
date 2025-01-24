@@ -1,6 +1,6 @@
 ### Hi, I’m Ysh Dhiman 👋
 
-Welcome to my GitHub profile! I'm a web developer passionate about bringing ideas to life. Currently, I work with Ciirs, where we turn concepts into reality.
+Welcome to my GitHub profile! I'm a web developer passionate about bringing ideas to life.
 
 #### About Me:
 
@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a web developer passionate about bringing idea
 - 💭 *"One day you will be a memory."*
 
 #### How it Started
-I began programming in 2021, shortly after finishing my schooling at NTC. My first "Hello World" didn’t go as expected, thanks to a video by Code With Harry.
+I began programming in 2021, shortly after finishing my schooling at NTC. On Youtube I found a Random Video and i wrote My first "Hello World" but didn’t go as expected, thanks to a video by Code With Harry.
 
 <!---
 Yshdhiman/Yshdhiman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
